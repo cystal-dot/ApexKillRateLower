@@ -1,0 +1,2 @@
+# ApexKillRateLower
+ApexLegendsのキルレートを下げるbot
